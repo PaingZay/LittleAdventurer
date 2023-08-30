@@ -1,0 +1,14 @@
+# Blender 3.5.1 MTL File: 'Katana.blend'
+# www.blender.org
+
+newmtl Material
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Katanatextures/Katana_low_BaseColor.1001.png
+map_Ns Katanatextures/Katana_low_Roughness.1001.png
+map_refl Katanatextures/Katana_low_Metallic.1001.png
+map_Bump -bm 1.000000 Katanatextures/Katana_low_Normal.1001.png
